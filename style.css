@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+
+.wrapper {
+    width: 890px;
+    background: #FFFFFF;
+    border: 1px solid #CECFCE;
+    margin: 20px auto 0;
+    margin-bottom: 20px;
+}
+
+.header #hero-img {
+    margin: 0;
+    width: 100%;
+    padding:0;
+    border: none;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    line-height: 1.6;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    
+}
+
+.navbar {
+    background-color: maroon;
+    overflow: hidden;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.content {
+    padding: 20px;
+    text-align: justify;
+}
+
+ h2,h3{
+    color:maroon;;
+
+}
